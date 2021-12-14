@@ -1,6 +1,7 @@
 # Star-Wars-Searchbar-App-Clone
 This is a clone of Star-Wars-Searchbar-App , where user can search &amp; see the details of any star wars'  character
 
+Link of the App: https://chandra-akash.github.io/Star-Wars-Searchbar-App-Clone/
 <hr />
 
 Landing Page:
